@@ -1,0 +1,6 @@
+Hello World
+for i in fooo
+print g
+
+
+shut immediate
